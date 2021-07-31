@@ -18,9 +18,6 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
-
-
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
