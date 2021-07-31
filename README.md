@@ -1,13 +1,20 @@
 # Hey Everyone! I'm [Roopam Joshi!](https://github.com/roopam-joshi-au17) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
-<p>
-  <a href="https://github.com/aabhishek-chaurasia-au17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://codepen.io/aabhishek-chaurasia-au17" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishek-chaurasia-640b3563/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.facebook.com/abhishek.chaurasia.940/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="mailto:abhishekc838@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/a4abhishek_/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<a href="https://twitter.com/amandewatnitrr">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/amandewatnitrr">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/akd_beast_slayer/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:amandewatnitrr@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
@@ -29,46 +36,19 @@
 </div>
 
 ##
-
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 🔬 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
-</div>
-
-##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
-  </span>
+</span>
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
@@ -96,55 +76,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
 <hr> 
-  
-<h3><b><samp>Check out my Repositories</samp></b></h3>
-
-<span>
-<a href="https://github.com/amandewatnitrr/A-10-NEXA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
-</a>
-<a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
-</a>
-  </span>
-  
-<hr>
-  
-### :zap: Recent Activity
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#114](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/114) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-2. ❗️ Opened issue [#107](https://github.com/priyanshisharma/Leetcoding-Challenge/issues/107) in [priyanshisharma/Leetcoding-Challenge](https://github.com/priyanshisharma/Leetcoding-Challenge)
-3. 💪 Opened PR [#114](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/114) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-4. ❗️ Opened issue [#113](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/113) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-5. 💪 Opened PR [#111](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/111) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-<!--END_SECTION:activity-->
-
-  
-### ✍️ Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
-- [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
-- [Getting Started with Content Writing and Blog Writing](https://medium.com/@amandewatnitrr/getting-started-with-content-writing-and-blog-writing-52cc6a7440b4?source=rss-e69b5e669025------2)
-- [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
-- [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
-<!-- BLOG-POST-LIST:END -->
-
-  
-<hr>
-  
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<br/>
- 
- <hr>
-  
+    
 ### Github Stats
   
 <p align="center">
@@ -158,12 +90,6 @@
   
 <br>
   
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
 
 ### 📈 GitHub Activity:
   <a href="https://github.com/amandewatnitrr/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
