@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/a4abhishek_/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 <br><br>
-![p1](https://github.com/roopam-joshi-au17/roopam-joshi-au17/blob/main/header_.png)
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
