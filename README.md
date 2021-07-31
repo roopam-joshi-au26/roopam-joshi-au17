@@ -12,9 +12,8 @@
 <a href="https://www.instagram.com">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
 <a href="mailto:roopamjoshi63@gmail.com">
-  <img align="left" alt="roopam's gmail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="roopam's gmail" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />1
 </a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
