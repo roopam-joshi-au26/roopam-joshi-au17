@@ -1,20 +1,14 @@
 # Hey Everyone! I'm [Roopam Joshi!](https://github.com/roopam-joshi-au17) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
-<a href="">
-  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/roopam-joshi-2685a3a2/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/roopam-joshi-au17">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:roopamjoshi63@gmail.com">
-  <img align="left" alt="roopam's gmail" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+<h2>🌎 &nbsp;Where to find me</h2>
+<p>
+  <a href="https://github.com/aabhishek-chaurasia-au17" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://codepen.io/aabhishek-chaurasia-au17" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-chaurasia-640b3563/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.facebook.com/abhishek.chaurasia.940/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="mailto:abhishekc838@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/a4abhishek_/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
