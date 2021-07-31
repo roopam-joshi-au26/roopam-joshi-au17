@@ -78,21 +78,22 @@
 <hr> 
     
 ### Github Stats
+
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+ <a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=roopam-joshi-au17&theme=radical&hide"  /></a>
   
-<p align="center">
-  <a href="https://github.com/amandewatnitrr"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=dracula" />
-    </span></a>
-</p>
-  
+<a href="https://github.com/roopam-joshi-au17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roopam-joshi-au17&theme=radical&hide" />
+</a>
+<a href="https://github.com/roopam-joshi-au17/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roopam-joshi-au17&show_icons=true&theme=radical&line_height=27%22%20alt=%22Abhishek%27s%20github%20stats" />
+</a>
 <br>
   
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/amandewatnitrr/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/roopam-joshi-au17/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roopam-joshi-au17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -101,7 +102,7 @@
 ##
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+  <img src="https://profile-counter.glitch.me/roopam-joshi-au17/count.svg" />
 </p>
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
